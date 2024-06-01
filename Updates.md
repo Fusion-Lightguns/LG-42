@@ -1,3 +1,11 @@
+## Updates 5/24/24:
+- Improved joystick cap again lol.
+- Added Joystick cap no buttons for people dont want buttons showing.
+- I stopped editing the frame without joystick & removing that file .
+- IF I edit panel pieces more it will be 1piece panels others will be removed. 
+- New imo much better looking pump.( for now will reupload original as pump-old.stl)
+
+
 ## Updates 4/18/24
 - Half assembled another today from new frame went great. 
 - Made solenoid clamp and slide pieces together.
