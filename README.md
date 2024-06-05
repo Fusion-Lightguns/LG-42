@@ -14,7 +14,7 @@
 
 
 # Parts 
-You Will Need: (Modified from Odcon list)
+- All parts printed from most current [release](https://github.com/Fusion-Lightguns/LG-42/releases) or [thingiverse](https://www.thingiverse.com/thing:6323569)
 - 3mm threaded brass inserts
 [Amazon](https://rb.gy/1rzq)
 [AliExpress](https://rb.gy/in1x (5.3mm OD x 5mm Length) )
