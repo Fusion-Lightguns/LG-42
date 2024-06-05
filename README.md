@@ -47,6 +47,9 @@ Don't let me hear you BOUGHT a pen just to salvage, seriously, go steal one...
 Please see [Build Me file](https://github.com/Fusion-Lightguns/LG-42/blob/main/Build-Me.md)
 
 ## Build Video Instructions
-SOON
+
+Basic Build Video:
+
+https://youtu.be/uoerwwCBrL4?si=gnNAys0AMM_qyysk
 
 
