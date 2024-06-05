@@ -3,6 +3,7 @@
 # Info
 - LG-42 is a Lightgun model remixed from [Odcon1](https://www.thingiverse.com/thing:5361060)
 - I wanted a pump reload, a 5way joystick spot, one piece frame etc.
+- [LG-42 Thingiverse Link](https://www.thingiverse.com/thing:6323569)
   
 ## Pictures 
 ![large_display_fef51838-dc9a-4795-8833-bc17d27675f8](https://github.com/Fusion-Lightguns/LG-42/assets/118452807/e14942d2-f65c-4334-bf6f-2c210b2d4bc2)
