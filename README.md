@@ -5,7 +5,12 @@
 - I wanted a pump reload, a 5way joystick spot, one piece frame etc.
   
 ## Pictures 
-SOON
+![large_display_fef51838-dc9a-4795-8833-bc17d27675f8](https://github.com/Fusion-Lightguns/LG-42/assets/118452807/e14942d2-f65c-4334-bf6f-2c210b2d4bc2)
+
+![Screenshot (95)](https://github.com/Fusion-Lightguns/LG-42/assets/118452807/7ddeaf09-13de-439a-be36-9d03eff56336)![Screenshot (97)](https://github.com/Fusion-Lightguns/LG-42/assets/118452807/bcbca78b-f54a-4b41-82e6-146f722f8450)
+
+
+
 
 # Parts 
 You Will Need: (Modified from Odcon list)
