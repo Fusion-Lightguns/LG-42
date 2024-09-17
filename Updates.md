@@ -1,3 +1,16 @@
+## Updates 8/4/24
+
+- Fixed misc errors on frame.
+- Made frame easier to slice & print.
+-Adding new pump lock soon im collabing on.
+
+## Updates 7/8/24
+
+- Added a Joystick-Cap if you want everything same color on module.
+- Tested and adjusted few things again lol.
+- Received some nice professional printed Lightguns assembling asap.
+- New pump works great, but im still trying to edit to make assembly easier .
+
 ## Updates 5/24/24:
 - Improved joystick cap again lol.
 - Added Joystick cap no buttons for people dont want buttons showing.
