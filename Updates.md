@@ -1,3 +1,35 @@
+## Updates 10/24/24
+
+- Added a stand should work fine.
+- Everything works that i tested just got anew printer to test again.
+
+## Updates 10/17/24
+
+- Unless something messes up this model is complete!!!!
+- Triple checked everything .
+- Only things untested are Holsters.
+
+## Updates 8/23/24
+
+- Reworked frame to print better.
+- Reworked frame to hold new solenoid board.
+- Reworked frame to use metal pins to hold joystick module and cap.
+- Reworked frame to hold a m4x12 bolt for spring.
+- Added printable buttons to replace 16mm if desired. (uses 6x6mm buttons)
+
+## Updates 8/21/24
+
+- Got a custom microntroller designed to fit LG-42.
+- Got a custom solenoid/rumble PCB designed.
+- Frame will be redesigned to hold solenoid PCB.
+- Should be final STLs after solenoid PCB mods. (Unless I receive errors lol)
+
+## Updates 8/11/24 
+
+- Reinforced pump.
+- Updates Pump-Lock to secure better .
+- After almost a year i should have final stls files in next few weeks.
+
 ## Updates 8/4/24
 
 - Fixed misc errors on frame.
