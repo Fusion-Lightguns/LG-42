@@ -1,3 +1,7 @@
+## Updates 11/8/24
+- Testing final stuff again .
+- Final STLs unless errors reported.
+
 ## Updates 10/24/24
 
 - Added a stand should work fine.
